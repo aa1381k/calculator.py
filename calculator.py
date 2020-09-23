@@ -25,9 +25,9 @@ def tagsim ():
 
 while 1:
 
-    addad_aval=float(input("enter first number : "))
+    addad_aval=float(input("enter first number : \n"))
 
-    alamat=input("enter your Operator : ")
+    alamat=input("enter your Operator : \n")
 
     addad_dovom=float(input("enter second number : "))
 
